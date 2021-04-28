@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-VGSCollectShowSwiftUIDemo/Pods-VGSCollectShowSwiftUIDemo-frameworks.sh
+${PODS_ROOT}/CardIOSDK/Carthage/Build/iOS/CardIO.framework
+${BUILT_PRODUCTS_DIR}/VGSCollectSDK/VGSCollectSDK.framework
+${BUILT_PRODUCTS_DIR}/VGSShowSDK/VGSShowSDK.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CardScan/CardScan.framework/CardScan

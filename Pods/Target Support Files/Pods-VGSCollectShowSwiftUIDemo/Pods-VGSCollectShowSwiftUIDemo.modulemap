@@ -1,0 +1,6 @@
+framework module Pods_VGSCollectShowSwiftUIDemo {
+  umbrella header "Pods-VGSCollectShowSwiftUIDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
