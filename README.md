@@ -38,7 +38,7 @@ Go to your <a href="https://dashboard.verygoodsecurity.com/" target="_blank">VGS
 
 Clone demo application repository.
 
-`git clone git@github.com:verygoodsecurity/vgs-collect-show-ios-swiftUI-demo.git`
+`git clone git@github.com:vgs-samples/vgs-collect-show-ios-swiftUI-demo.git`
 
 #### Step 3
 
